@@ -29,7 +29,7 @@ Modelin sonunda 8 boyutlu bir çıktı vektörü yer alır, her bir boyut bir s�
 > **Eğitim:** AMP (otomatik karma hassasiyet) ile hızlandırılmıştır  
 > **Ağ Çıkışı:** Her sınıf için sigmoid aktivasyonu ile 0-1 arası olasılık değeri
 
-## ⚙ Eğitim
+##  Eğitim
 
 Model sadece **CUDA destekli cihazlarda** çalıştırılmak üzere tasarlanmıştır.  
 Eğitim süreci `train_1.py` dosyasında gerçekleştirilir:
