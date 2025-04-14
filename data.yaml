@@ -1,0 +1,5 @@
+train: D:/Code/Bilgisayarli_Goru/multiclasses/train/images
+val: D:/Code/Bilgisayarli_Goru/multiclasses/valid/images
+
+nc: 6
+names: ['Animal', 'Basketball', 'Electric Scooter', 'Fruit', 'Planet', 'Vehicle']
